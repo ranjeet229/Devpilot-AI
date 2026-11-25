@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: devpilot-ai-orchestrator
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: fastapi<1,>=0.115
+Requires-Dist: uvicorn[standard]<1,>=0.34
+Requires-Dist: pydantic<3,>=2.10
+Requires-Dist: groq<1,>=0.13
+Requires-Dist: python-dotenv<2,>=1.0
